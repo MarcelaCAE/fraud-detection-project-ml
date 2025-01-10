@@ -4,6 +4,7 @@
 The goal of the project is building a model using Machine learning that detects financial fraud by identifying suspicious activities.
 
 ## Dataset Overview:
+
 https://www.kaggle.com/datasets/kartik2112/fraud-detection?select=fraudTrain.csv
 The dataset is divided into two parts: train and test. 
 It contains information about financial transactions, with a column indicating whether the transaction was fraudulent (target variable).
